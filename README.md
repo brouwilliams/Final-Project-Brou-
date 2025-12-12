@@ -9,7 +9,9 @@ Este projeto implementa a análise de regressão linear com fatores Fama-French 
 - `requirements.txt` → Dependências
 - `README.md` → Instruções
 
-## ✅ Como rodar localmente
-1. Instale as dependências:
-   ```bash
-   pip install -r requirements.txt
+
+## ✅ Como rodar online
+
+Clique no botão abaixo para abrir no Binder:  
+https://mybinder.org./v2/gh/brouwilliams/Final-Project-Brou-/HEAD
+
